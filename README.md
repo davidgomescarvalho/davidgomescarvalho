@@ -1,5 +1,6 @@
 ## Hi, I'm David Gomes 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?davidgomescarvalho=anuraghazra)](https://github.com/davidgomescarvalho/github-readme-stats)
 <!--
 **davidgomescarvalho/davidgomescarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
